@@ -4,6 +4,6 @@
 You can see the result in easyocr.ipynb file.  
 ### DTRB
 As you see, the results are not desirable, so I used this repository  
- ``` https://github.com/clovaai/deep-text-recognition-benchmark ``` istead to get better results on recognizing license plates
+```https://github.com/clovaai/deep-text-recognition-benchmark``` istead to get better results on recognizing license plates
 
 
