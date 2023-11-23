@@ -6,4 +6,6 @@ You can see the result in easyocr.ipynb file.
 As you see, the results of easyocr are not desirable, so I used this repository  
 ```https://github.com/clovaai/deep-text-recognition-benchmark``` istead to get better results for recognizing license plates
 
+#### Dataset  
+I've used this repository ```https://github.com/mut-deep/IR-LPR``` to use its data for training and validation
 
