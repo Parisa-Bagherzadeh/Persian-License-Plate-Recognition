@@ -7,5 +7,11 @@ As you see, the results of easyocr are not desirable, so I used this repository
 ```https://github.com/clovaai/deep-text-recognition-benchmark``` istead to get better results for recognizing license plates
 
 #### Dataset  
-The data of this repository ```https://github.com/mut-deep/IR-LPR``` is used for training and validation
+The data of this repository ```https://github.com/mut-deep/IR-LPR``` is used for training and validation  
+
+| Train loss | Valid loss | Best accuracy |
+| -------- | --------     | -------- |
+|   0.04   | 0.44         | 79.59 |
+
+
 
