@@ -1,4 +1,4 @@
-# License plate recognition 🔎
+# Persian License Plate Recognition 🔎
 ### EASYOCR 
 I've used easyocr library on English and Persian license plates and handwritings.  
 You can see the result in easyocr.ipynb file.  
